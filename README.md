@@ -1,4 +1,4 @@
-### Hello pretty people :3 
+**Hello pretty people**__ :3 
 
 I'm Pavana P Karanth, a sophmore pursuing Computer Science Egineering (Major) and Psychology (Minor). 
 
@@ -10,8 +10,8 @@ I'm actively seeking internships and research opportunities in this area.
 
 Best, 
 Pavana. 
-Ps. You can reach out to me at pavana.karanth17@gmail.com
-Here's my linkedin profile: https://www.linkedin.com/in/pavana-p-karanth-17cc/
+_Ps. You can reach out to me at pavana.karanth17@gmail.com
+Here's my linkedin profile: https://www.linkedin.com/in/pavana-p-karanth-17cc/_
 
 <!--
 **Pavana-karanth/Pavana-karanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
