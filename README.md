@@ -1,4 +1,4 @@
-**Hello pretty people**__ :3 
+__**Hello pretty people**__ :3 
 
 I'm Pavana P Karanth, a sophmore pursuing Computer Science Egineering (Major) and Psychology (Minor). 
 
