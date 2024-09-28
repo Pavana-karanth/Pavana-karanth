@@ -1,6 +1,6 @@
 __**Hello pretty people**__ :3 
 
-![Alt Text](https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif)
+<img src="https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif" width="40" height="40" />
 
 I'm Pavana P Karanth, a sophmore pursuing Computer Science Egineering (Major) and Psychology (Minor). 
 
