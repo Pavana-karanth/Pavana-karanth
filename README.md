@@ -4,11 +4,11 @@ __**Hello pretty people**__ 🍂
   <img src="https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif" width="530" height="300" />
 </p>
 
-📌 I'm Pavana P Karanth, a sophmore pursuing Computer Science Egineering (Major) and Psychology (Minor) 💅🏽. 
+📌 I'm Pavana P Karanth, a sophmore pursuing Computer Science Engineering (Major) and Psychology (Minor) 💅🏽. 
 
 📌 I like cats, books and coding (Lovely, I know 🐥)
 
-📌 My interests in Tech currently included Artificial Intelligence, Machiene Learning, and a bit of web development. I'm more into how we can use ML for cognitive and behavioural psychology :D
+📌 My interests in Tech currently included Artificial Intelligence, Machine Learning, and a bit of web development. I'm more into how we can use ML for cognitive and behavioural psychology :D
 
 📌 I'm actively seeking internships and research opportunities in this area 🔬📒.
 
