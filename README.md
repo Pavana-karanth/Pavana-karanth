@@ -8,7 +8,7 @@ __**Hello pretty people**__ 🍂
 
 📌 I like cats, books and coding (Lovely, I know 🐥)
 
-📌 My interests in Tech currently included Artificial Intelligence, Machine Learning, and a bit of web development. I'm more into how we can use ML for cognitive and behavioural psychology :D
+📌 My interests in Tech currently include Artificial Intelligence, Machine Learning, and a bit of web development. I'm more into how we can use ML for cognitive and behavioural psychology :D
 
 📌 I'm actively seeking internships and research opportunities in this area 🔬📒.
 
