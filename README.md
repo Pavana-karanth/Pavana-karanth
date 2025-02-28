@@ -6,9 +6,9 @@ __**Hello pretty people**__ 🍂
 
 📌 I'm Pavana P Karanth, a sophmore pursuing Computer Science Engineering (Major) and Psychology (Minor) 💅🏽. 
 
-📌 I like cats, books and coding (Lovely, I know 🐥)
+📌 I like cats, books and coding 🐥
 
-📌 My interests in Tech currently include Artificial Intelligence, Machine Learning, and a bit of web development. I'm more into how we can use ML for cognitive and behavioural psychology :D
+📌 My interests in Tech currently include Artificial Intelligence, Machine Learning and Data Analysis. I'm more into how we can use ML for cognitive and behavioural psychology :D
 
 📌 I'm actively seeking internships and research opportunities in this area 🔬📒.
 
@@ -32,7 +32,7 @@ Some slay things I've done:
 <br>Selected for a 6-month nano degree program- "AI Programming with Python" offered by Amazon. Built 2 projects where one was an image classification model and the other was canine breed classification model 👩🏻‍💻 :)
 
 
-Born to be a couch potato but forced to be a girlboss I guess 🤷🏻‍♀🫶🏼.
+Born to be a couch potato but forced to be a girlboss I guess :3.
 
 Anyway, Keep slaying. Feel free to reach out incase you wanna collaborate on anything :D
 
