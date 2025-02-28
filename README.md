@@ -4,7 +4,7 @@ __**Hello pretty people**__ 🍂
   <img src="https://i.pinimg.com/originals/4f/d3/0e/4fd30efd8301e3551a3a63da0d9c4d88.gif" width="530" height="300" />
 </p>
 
-📌 I'm Pavana P Karanth, a sophmore pursuing Computer Science Engineering (Major) and Psychology (Minor) 💅🏽. 
+📌 I'm Pavana P Karanth, a third year student pursuing Computer Science Engineering (Major) and Psychology (Minor) 💅🏽. 
 
 📌 I like cats, books and coding 🐥
 
